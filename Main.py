@@ -1,5 +1,3 @@
-print(Whats going on youtube)
-print(What are your favorite movies?)
 print(Cars)
 print(Scott Pilgrim vs the world)
 print(A silent Voice)
