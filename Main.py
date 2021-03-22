@@ -1,5 +1,5 @@
-print(Cars)
-print(Scott Pilgrim vs the world)
-print(A silent Voice)
-print(Green Mile)
-print(23 blast)
+adjective1 = "lazy"
+noun1 = "bat"
+pluralNoun = "dogs"
+person = "samantha"
+adjective2 = ""
