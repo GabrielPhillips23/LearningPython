@@ -21,3 +21,4 @@ verb =  input("insert a verb\n")
 pluralNoun4 = input("insert another plural noun\n")
 number = input("insert a number\n")
 print("There are many" + adjective1 + "ways to choose a" + noun1 + "to read. First, you could ask for recommendations from your friends and" + pluralNoun + ". Just don't ask Aunt" + person + " she only reads ")
+...
