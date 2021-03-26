@@ -1,24 +1,15 @@
-adjective1 = input("insert an adjective\n")
-noun1 = input("insert a noun\n")
-pluralNoun = input("insert a plural noun\n")
-person = input("insert a female person\n")
-adjective2 = input("insert another adjective\n")
-clothing = input("insert a article of clothing\n")
-Noun2 = input("insert another noun\n")
-City = input("insert a city\n")
-pluralNoun2 = input("insert another plural noun\n")
-adjective3 = input("insert another adjective\n")
-body = input("insert s body part\n")
-letter = input("insert a letter\n")
-celebrity = input("insert a celebrity\n")
-PluralNoun3 = input("insert another plural noun\n")
-adjective4 = input("insert another adjective\n")
-place = input("insert a place\n")
-body2 = input("insert another body part\n")
-adjective5 = input("insert another adjective\n")
-adjective6 = input("insert another adjective\n")
-verb =  input("insert a verb\n")
-pluralNoun4 = input("insert another plural noun\n")
-number = input("insert a number\n")
-print("There are many" + adjective1 + "ways to choose a" + noun1 + "to read. First, you could ask for recommendations from your friends and" + pluralNoun + ". Just don't ask Aunt" + person + " she only reads ")
-...
+light = input("Stoplight Color:\n")
+
+if light == "green":
+    print("Go")
+    print("Honk Honk")
+
+elif light == "yellow":
+    print("slow")
+
+elif light == "blue":
+    print("What?")
+
+else:
+    print("Stop")
+
